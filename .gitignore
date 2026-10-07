@@ -1,0 +1,16 @@
+# Oracle / SQL*Plus temporary files
+*.log
+*.lst
+*.bak
+*.tmp
+afiedt.buf
+
+# Database files (never upload these)
+*.dbf
+*.ctl
+
+# Editor and system files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
