@@ -1,16 +1,3 @@
-# \# PL/SQL GOTO Statements and Functions - Individual Assignment III
-
-# 
-
-# \*\*Name:\*\* Ishimwe Ntwari Dylan
-
-# \*\*Student ID:\*\* 29764
-
-# \*\*Course:\*\* Database development with PL/SQL
-
-# \*\*Lecturer:\*\* Eric Maniraguha
-
-
 
 # PayrollPal: PL/SQL GOTO and Functions
 
@@ -18,14 +5,11 @@
 
 | | |
 |---|---|
-| **Student** | Dylan Ntwari |
-| **Student ID** | 29764 |
-| **Course** | [your course name] |
-| **Lecturer** | [lecturer name] |
-| **Database** | Oracle 21c Enterprise Edition, PDB `DY_PDB_29764` |
-| **Tool** | SQL*Plus + Git/GitHub |
+# \*\*Name:\*\* Ishimwe Ntwari Dylan
 
----
+# \*\*Student ID:\*\* 29764
+
+# \*\*Course:\*\* Database development with PL/SQL
 
 ## The idea behind my project
 
@@ -72,7 +56,7 @@ Two tables with a one-to-many relationship: one department has many employees.
 
 ## How to run it
 
-1. Open SQL*Plus and connect to the pluggable database as `dylan_plsqlauca_29764`.
+1. Open SQL*Plus and connect to the pluggable database as `USER-NAME`.
 2. Run the setup script first, because everything depends on it:
 ```
    @00_setup/create_tables.sql
